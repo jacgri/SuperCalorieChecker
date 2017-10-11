@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jacgri/SuperCalorieChecker#readme",
   "dependencies": {
-    "alexa-sdk": "^1.0.14"
+    "alexa-sdk": "^1.0.14",
+    "aws-sdk": "^2.131.0"
   }
 }
